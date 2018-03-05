@@ -1,0 +1,5 @@
+NUS Investing Society
+-Quantitative Finance 
+—-Portfolio Theory
+
+Portfolio Optimization with Black-Litterman 
